@@ -14,7 +14,7 @@ My name is Caroline, nice to meet you. I'm 24 years old and I'm from Brazil.
 ### Contact me:
 
 <div>
-<a href="https://www.linkedin.com/in/caroline-de-almeida-ribeiro/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+<a href="https://www.linkedin.com/in/caroline-de-almeida-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ### GitHub Stats:
