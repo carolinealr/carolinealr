@@ -1,10 +1,12 @@
-# Hi, I'm Caroline! 👋
+# Hey, I'm Caroline 👋
+
+Nice to meet you. I'm a pharmacist and full stack developer student. I'm currently learning web development and English. I'm 24 years old and I'm from Brazil.
 
 ### Languages and Tools:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" />
           
-### Contact:
+### Contact me:
 
 <div>
 <a href="https://www.linkedin.com/in/caroline-de-almeida-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
