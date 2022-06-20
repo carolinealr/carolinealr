@@ -19,3 +19,5 @@
 <br>
 <p><img src="https://komarev.com/ghpvc/?username=carolinealr" alt="carolinealr" /></p>
 </div>
+
+![snake gif](https://github.com/carolinealr/carolinealr/blob/output/github-contribution-grid-snake.svg)
