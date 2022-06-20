@@ -1,11 +1,9 @@
-# Hey 👋
-
-My name is Caroline, nice to meet you. I'm 24 years old and I'm from Brazil.
+# Hey, I'm Caroline 👋
 
 <p> :pill: I'm a pharmacist. </p>
 <p> :computer: Full stack developer student. </p>
 <p> :books: Systems analysis and development student. </p>
-<p> :zap: I'm currently learning web development and English. </p>
+<p> :zap: I'm currently learning object oriented programming and English. </p>
 
 ### Languages and Tools:
 
