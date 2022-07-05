@@ -3,7 +3,7 @@
 <p> :pill: I'm a pharmacist. </p>
 <p> :computer: Full stack developer student. </p>
 <p> :books: Systems analysis and development student. </p>
-<p> :zap: I'm currently learning object oriented programming and English. </p>
+<p> :zap: I'm currently learning object oriented programming. </p>
 
 ### Languages and Tools:
 
