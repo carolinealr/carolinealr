@@ -1,9 +1,9 @@
 # Hey, I'm Caroline 👋
 
-<p> :pill: I'm a pharmacist. </p>
-<p> :computer: Full stack developer student. </p>
-<p> :books: Systems analysis and development student. </p>
-<p> :zap: I'm currently learning object oriented programming. </p>
+<p> :pill: I'm a pharmacist but in the last year I decided to start studying something I really like: programming. </p>
+<p> :computer: I'm currently a full stack developer student. </p>
+<p> :books: And I also study systems analysis and development. </p>
+
 
 ### Languages and Tools:
 
